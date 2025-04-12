@@ -1,0 +1,13 @@
+# config.json
+{
+    "SILLYTAVERN_URL": "http://localhost:8000",
+    "CHARACTER_NAME": "Assistant",
+    "DISCORD_CHANNEL_ID": "YOUR_CHANNEL_ID_HERE",
+    "SELENIUM_DRIVER": "chrome",
+    "DRIVER_PATH": null,
+    "RESPONSE_TIMEOUT": 60,
+    "USE_PERSONAS": false
+}
+
+# .env
+DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN_HERE
